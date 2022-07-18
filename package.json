@@ -16,7 +16,7 @@
     "d3": "^3.5.17",
     "expose-loader": "^0.7.5",
     "jquery": "^3.4.1",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.2",
     "vue": "^2.6.10",
     "vue-click-outside": "^1.0.7",
     "vue-google-charts": "^0.3.2",
